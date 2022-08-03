@@ -57,8 +57,18 @@ textarea{
 .tabla{
     height: 10%;
 }
-
-
+ #edificio{
+    width: 85%;
+ }
+ #direccion{
+    width: 85%;
+ }
+ #e{
+    width: 85%;
+ }
+#d{
+    width: 85%; 
+}
 
 @media screen and (max-width:550px) and (min-width: 320px){
     input{
