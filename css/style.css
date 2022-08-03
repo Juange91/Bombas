@@ -42,11 +42,7 @@ border: white;
 #principal{
 width: 800px;
 height: 700px;
-
 position: absolute;
-
-
-
 
 }
 textarea{
@@ -56,11 +52,11 @@ textarea{
 #boton{
     width: 150px;
     height: 30px;
-
-   
     margin-left: 50%;
 }
-
+.tabla{
+    height: 10%;
+}
 
 
 
